@@ -20,7 +20,8 @@
         "drupal/core-project-message": "^9",
         "drupal/core-recommended": "^9",
         "drupal/core-vendor-hardening": "^9",
- 	"symfony/polyfill-mbstring": "^1.1"
+ 	"symfony/polyfill-mbstring": "^1.1",
+	"ext-mbstring" : "*" 
     },
     "conflict": {
         "drupal/drupal": "*"
